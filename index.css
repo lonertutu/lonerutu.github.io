@@ -1,11 +1,11 @@
 html{
-	background-color:rgb(5, 4, 30);
+	background-color:#0a0319 ;
 }
 body{
 	padding: 15px;
 	margin: 0 auto;
 	width: 60%;
-	background-color: rgb(5, 4, 30);
+	background: radial-gradient(50% 60%, #0c1941, #0a0319 );
 	position: center;
 	color: rgb(147, 134, 93);
 	text-align: justify;
@@ -15,7 +15,7 @@ body{
 
 
 	A:visited {
- 		color: #894848; /* Цвет посещенных ссылок */
+ 		color: #cac398; /* Цвет посещенных ссылок */
 	}
 	A:active {
  		color: #8d6d47; /* Цвет активных ссылок */
@@ -43,7 +43,7 @@ H4{
     text-align: center;
 }
 H5{
-    background-image: radial-gradient(ellipse, rgb(147, 134, 93), #efd699);
+    background-image: radial-gradient(ellipse, rgb(139, 106, 49), #9f9365);
     color: transparent;
     background-clip: text;
     -webkit-background-clip: text;
