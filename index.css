@@ -10,9 +10,23 @@ body{
 	color: rgb(147, 134, 93);
 	text-align: justify;
 	font-size: 18;
+	
 }
+
+
+	A:visited {
+ 		color: #894848; /* Цвет посещенных ссылок */
+	}
+	A:active {
+ 		color: #8d6d47; /* Цвет активных ссылок */
+	}
+
 h1{
 	text-align: center;
+	background-image: radial-gradient(ellipse, #eeddb1, rgb(60, 49, 7));
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
 }
 H2{
 	text-align: center;
