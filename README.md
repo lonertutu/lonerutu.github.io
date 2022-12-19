@@ -1,2 +1,2 @@
 # lonerutu.github.io
-Hello, this is my site about history of beatiful Tamriel!
+Hello, this is my site about history of the beatiful Tamriel!
