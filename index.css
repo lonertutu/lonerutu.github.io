@@ -1,13 +1,13 @@
 html{
-	background-color:black;
+	background-color:rgb(5, 4, 30);
 }
 body{
 	padding: 15px;
 	margin: 0 auto;
 	width: 60%;
-	background-color: black;
+	background-color: rgb(5, 4, 30);
 	position: center;
-	color: limegreen;
+	color: rgb(147, 134, 93);
 	text-align: justify;
 	font-size: 18;
 }
@@ -21,7 +21,20 @@ H3{
 	text-align: left;
 }
 H4{
-	text-align: left;
+    background-image: radial-gradient(ellipse, #efd699, rgb(79, 69, 30));
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-size: 30;
+    text-align: center;
+}
+H5{
+    background-image: radial-gradient(ellipse, rgb(147, 134, 93), #efd699);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-size: 30;
+    text-align: center;
 }
 .codeHeader{
 	color: yellow;
